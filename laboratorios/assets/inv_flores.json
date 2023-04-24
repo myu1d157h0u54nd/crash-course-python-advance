@@ -1,0 +1,26 @@
+{
+    "tipo": "flores",
+    "productos": {
+        "Rosas rojas": {
+            "cantidad": 10,
+            "color": "Rojo",
+            "precio": 10,
+            "inventario": 100,
+            "ventas": 90
+        },
+        "Lirios": {
+            "cantidad": 15,
+            "color": "Blanco",
+            "precio": 15,
+            "inventario": 200,
+            "ventas": 185
+        },
+        "Orquideas": {
+            "cantidad": 20,
+            "color": "Morado",
+            "precio": 20,
+            "inventario": 150,
+            "ventas": 130
+        }
+    }
+}

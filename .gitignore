@@ -1,0 +1,7 @@
+# jupyter
+.ipynb_checkpoints/*
+.ipynb_checkpoints/*
+
+# IDE or VENV
+venv/*
+.idea/*

@@ -1,0 +1,26 @@
+{
+    "tipo": "juegos de mesa",
+    "productos": {
+        "Ajedrez": {
+            "cantidad": 10,
+            "marca": "Hasbro",
+            "precio": 500,
+            "inventario": 100,
+            "ventas": 90
+        },
+        "Monopoly": {
+            "cantidad": 15,
+            "marca": "Hasbro",
+            "precio": 1000,
+            "inventario": 200,
+            "ventas": 185
+        },
+        "Risk": {
+            "cantidad": 20,
+            "marca": "Hasbro",
+            "precio": 300,
+            "inventario": 150,
+            "ventas": 130
+        }
+    }
+}

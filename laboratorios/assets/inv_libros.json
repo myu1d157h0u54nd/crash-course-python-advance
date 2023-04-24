@@ -1,0 +1,26 @@
+{
+    "tipo": "libros",
+    "productos": {
+        "El Quijote": {
+            "cantidad": 10,
+            "autor": "Miguel de Cervantes",
+            "precio": 50,
+            "inventario": 100,
+            "ventas": 90
+        },
+        "La Odisea": {
+            "cantidad": 15,
+            "autor": "Homero",
+            "precio": 20,
+            "inventario": 200,
+            "ventas": 185
+        },
+        "1984": {
+            "cantidad": 20,
+            "autor": "George Orwell",
+            "precio": 30,
+            "inventario": 150,
+            "ventas": 130
+        }
+    }
+}

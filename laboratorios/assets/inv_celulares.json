@@ -1,0 +1,26 @@
+{
+    "tipo": "celulares",
+    "productos": {
+        "Samsung Galaxy S21": {
+            "cantidad": 10,
+            "marca": "Samsung",
+            "precio": 500,
+            "inventario": 100,
+            "ventas": 90
+        },
+        "iPhone 13": {
+            "cantidad": 15,
+            "marca": "Apple",
+            "precio": 1000,
+            "inventario": 200,
+            "ventas": 185
+        },
+        "Xiaomi Mi 11": {
+            "cantidad": 20,
+            "marca": "Xiaomi",
+            "precio": 300,
+            "inventario": 150,
+            "ventas": 130
+        }
+    }
+}
