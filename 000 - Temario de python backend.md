@@ -19,7 +19,7 @@
       - Instancias de clase (Objetos)
         - Como acceder a sus atributos o métodos
     - Herencia en subclases
-      - Clase (padre) y sub-clase (hija)
+      - Clase (padre) y subclase (hija)
       - Métodos y atributos heredados
       - Encapsulamiento en clases
 - Decorators y wrapper
@@ -27,11 +27,13 @@
   - Wrappers
   - Decoradores de funciones
   - Decoradores de clases
-- Buenas practicas
+- Buenas prácticas
   - Documentation
   - logging 
   - testing
     - pytest
+      - assert: ()
+      - raises: error (NameError, TypeError, ValueError, IndexError, KeyError, FileNotFoundError, TimeoutError, KeyboardInterrupt)
     - mock
     - Monkey Patch
 - WEB y conceptos fundamentales
