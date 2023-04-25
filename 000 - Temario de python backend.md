@@ -32,10 +32,15 @@
   - logging 
   - testing
     - pytest
-      - assert: ()
-      - raises: error (NameError, TypeError, ValueError, IndexError, KeyError, FileNotFoundError, TimeoutError, KeyboardInterrupt)
-    - mock
-    - Monkey Patch
+      - Assert: ()
+      - Exception: error (TypeError, ValueError, IndexError, KeyError, AttributeError, ZeroDivisionError)
+        - Exception (custom)
+    - Resolviendo test unitarios con simulacion
+      - Mocks (libreria)
+        - Mocking de una dependencia externa
+        - Mocking de objetos internos
+      - Monkey Patch (tecnica)
+  - El ZEN de Python
 - WEB y conceptos fundamentales
   - Servicios web
     - Características técnicas de SOAP y REST

@@ -1,0 +1,13 @@
+2023-04-25 07:09:12,446 - WARNING - este es un msg de nivel: warning
+2023-04-25 07:09:12,446 - ERROR - este es un msg de nivel: error
+2023-04-25 07:09:12,446 - CRITICAL - este es un msg de nivel: critical
+
+
+2023-04-25 07:11:19,668 - DEBUG - este es un msg de nivel: debug
+2023-04-25 07:11:19,668 - INFO - este es un msg de nivel: info
+2023-04-25 07:11:19,668 - WARNING - este es un msg de nivel: warning
+2023-04-25 07:11:19,669 - ERROR - este es un msg de nivel: error
+2023-04-25 07:11:19,669 - CRITICAL - este es un msg de nivel: critical
+
+2023-04-25 07:12:51,226 - ERROR - este es un msg de nivel: error
+2023-04-25 07:12:51,227 - CRITICAL - este es un msg de nivel: critical
