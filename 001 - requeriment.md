@@ -1,19 +1,42 @@
 # Python
 
-sudo apt update
-sudo apt upgrade
-sudo apt install python3
+``` bash
+sudo apt update  
+sudo apt upgrade  
+sudo apt install python3  
 sudo apt install python3-pip
+```
 
 ## python jupyter
 
-pip install notebook rise
-jupyter --version
+### Install: Jupyter notebook
 
+``` bash
+pip install notebook
+```
+
+### Install: Jupyter notebook extension, presentation and slides
+
+``` bash
+pip install rise
+```
+
+## check version
+
+``` bash
+jupyter --version
+```
+
+## start
+
+``` bash
 jupyter notebook
+```
+
 
 # Docker
 
+``` bash
 sudo apt update
 sudo apt upgrade
 sudo apt install apt-transport-https ca-certificates curl software-properties-common
@@ -26,8 +49,11 @@ sudo systemctl status docker
 sudo usermod -aG docker ${USER}
 su - ${USER}
 groups
+```
 
 # Pyenv
+
+``` bash
 sudo apt update
 sudo apt upgrade
 
@@ -42,9 +68,13 @@ export PATH="$HOME/.pyenv/bin:$PATH" && eval "$(pyenv init --path)" && echo -e '
 exec $SHELL
 
 pyenv --version
-
+```
 
 ## How to Uninstall Pyenv on Ubuntu?
 To uninstall the pyenv on Ubuntu, we will remove the folder of the pyenv by using the rm command:
 
+``` bash
 $ rm -fr ~/.pyenv
+```
+
+

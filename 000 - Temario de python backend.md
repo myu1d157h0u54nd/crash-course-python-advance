@@ -10,13 +10,27 @@
   - Counter
   - OrderedDict
   - defaultdict
-- Decoradores (Decorators)
-  - de función
-  - de clase
+- POO en Python:
+    - funciones
+      - parametros: (*args), (**kwargs), (*args, **kwargs) 
+      - Funciones lambda
+    - clases
+      - El parámetro "self" en métodos de clases
+      - Instancias de clase (Objetos)
+        - Como acceder a sus atributos o métodos
+    - Herencia en subclases
+      - Clase (padre) y sub-clase (hija)
+      - Métodos y atributos heredados
+      - Encapsulamiento en clases
+- Decorators y wrapper
+  - Diferencias entre decoradores y wrapper
+  - Wrappers
+  - Decoradores de funciones
+  - Decoradores de clases
 - Buenas practicas
   - Documentation
   - logging 
-  - testin
+  - testing
     - pytest
     - mock
     - Monkey Patch
